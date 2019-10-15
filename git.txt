@@ -6,9 +6,14 @@ git commit -m "first commit"
 git remote add origin https://github.com/shaijukumar/MyAppAngular.git
 git push -u origin master
 
-
+Push changes in git
+===================
 Git add . 
 git commit -m "Change4"
 git push origin master
 
-1
+To Clone
+========
+1. Ctrl+Shift+P to show the Command Palette.
+2. Execute the Git: Clone command. 
+3. Paste in the URL to your repo and press Enter. - https://github.com/shaijukumar/MyAppAngula
