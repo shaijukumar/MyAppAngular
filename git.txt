@@ -9,7 +9,7 @@ git push -u origin master
 Push changes in git
 ===================
 Git add . 
-git commit -m "Change4"
+git commit -m "Change"
 git push origin master
 
 To Clone
